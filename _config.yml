@@ -25,7 +25,7 @@ author:
   name             : "Ali N. Salman"
   bio              : "Ph.D. Student at The University of Texas at Dallas"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : #"University of Texas at Dallas"
   uri              : # URL
   email            : "Ali.Salman@utdallas.edu" 
 
@@ -37,6 +37,7 @@ author:
   semantic         : # URL
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Ali-Salman-11"
+  huggingface      : "https://huggingface.co/3loi"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
