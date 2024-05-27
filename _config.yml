@@ -37,13 +37,14 @@ author:
   semantic         : # URL
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Ali-Salman-11"
-  huggingface      : "https://huggingface.co/3loi"
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "3loi"
+  huggingface      : "3loi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
