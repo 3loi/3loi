@@ -53,7 +53,7 @@ Leadership & Volunteer Work
 ======
 * Ongoing: Reviewer
   * Reviewed a plethora of papers in the field of deep learning, speech, and image processing.
-  * Springer JRTIP, IEEE-FG, ACM-ICMI
+  * Springer JRTIP, IEEE-FG (outstanding reviewer award), ACM-ICMI
  
 * June 2024: Organizing Committee Member
   * Odyssey, 	Quebec, Canada
